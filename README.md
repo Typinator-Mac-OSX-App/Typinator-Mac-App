@@ -1,4 +1,4 @@
-# Typinator for Mac – Advanced Text Expansion and Productivity Tool  
+# Typinator – Advanced Text Expansion and Productivity Tool  
 
 <div align="center">  
   <img src="https://ergonis.com/logos/typinator_icon.png" alt="Typinator for Mac Logo" width="200">  
@@ -21,7 +21,7 @@
 
 ---
 
-## About Typinator for Mac  
+## About Typinator  
 
 **Typinator** is a macOS utility that simplifies repetitive typing tasks by expanding abbreviations into complete phrases, formatted content, or dynamic text.  
 It is ideal for writers, programmers, and anyone seeking to improve typing efficiency and reduce errors.  
